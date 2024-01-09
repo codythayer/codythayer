@@ -2,7 +2,8 @@
 
 **`Data Scientist`**
 
-<h1> <a href="https://www.linkedin.com/in/joshmadakor/">LINKEDIN LINK</a>
+<h1> <a href="https://www.linkedin.com/in/codythayer/">LinkedIn</a>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
