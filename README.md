@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# Cody Thayer
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
