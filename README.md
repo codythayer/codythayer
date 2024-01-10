@@ -21,6 +21,8 @@
 - <b>CS 699: Classification Algorithms</b>
   - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
+All code can be found in the appropriately named repo.
+
 <h2>📚 Maxon Consulting:</h2>
 
 - <b>CS 544: Statistics and Probability</b>
