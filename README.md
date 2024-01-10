@@ -3,6 +3,8 @@
 
 <h1> <a href="https://github.com/codythayer/codythayer/blob/main/Cody%20Thayer%20Resume%201.4.2024.pdf">Resume</a>
 <h1> <a href="https://www.linkedin.com/in/codythayer/">LinkedIn</a>
+<h1> <a href="https://codythayer.github.io/us-census-project/">PROJECT LINK</a>
+
 
 **`Data Scientist`**
 
