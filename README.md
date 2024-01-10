@@ -19,7 +19,7 @@
 - <b>CS 688: Data Mining</b>
   - [XXXXXXXXXXXXXXXXXXXXXXXX](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>CS 699: Classification Algorithms</b>
-  - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/codythayer/arthritis-classification/blob/main/Final%20Report.pdf)
 
 All code can be found in the appropriately named repo.
 
