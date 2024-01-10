@@ -10,13 +10,16 @@
 
 ### Blurb, blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb
 
-<h2>👨‍💻 Boston University Master's Capstone Projects:</h2>
+<h2>📚 Boston University Master's Capstone Projects:</h2>
 
-- <b>CS 544 Introduction to Statistics and Probability</b>
-  - [An Exploration of First-Generation Americans](https://codythayer.github.io/us-census-project/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+- <b>CS 544: Statistics and Probability</b>
+  - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
+- <b>CS 555: Foundations of Machine Learning</b>
+  - [Restaurant Marketing Campaign A/B Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>CS 688: Data Mining</b>
+  - [Restaurant Marketing Campaign A/B Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>CS 699: Classification Algorithms</b>
+  - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
 
