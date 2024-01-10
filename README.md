@@ -10,7 +10,7 @@
 
 ### Blurb, blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb blurb
 
-<h2>📚 Boston University Master's Capstone Projects:</h2>
+<h2>📚 Boston University Master's Program Capstone Projects:</h2>
 
 - <b>CS 544: Statistics and Probability</b>
   - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
@@ -21,7 +21,10 @@
 - <b>CS 699: Classification Algorithms</b>
   - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
+<h2>📚 Maxon Consulting:</h2>
 
+- <b>CS 544: Statistics and Probability</b>
+  - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
 
 
 <h2> 🤳 Connect with me:</h2>
