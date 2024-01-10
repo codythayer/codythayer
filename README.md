@@ -15,7 +15,7 @@
 - <b>CS 544: Statistics and Probability</b>
   - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
 - <b>CS 555: Foundations of Machine Learning</b>
-  - [Restaurant Marketing Campaign A/B Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Restaurant Marketing Campaign A/B Testing](https://codythayer.github.io/restaurant-marketing-campaign/)
 - <b>CS 688: Data Mining</b>
   - [Restaurant Marketing Campaign A/B Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>CS 699: Classification Algorithms</b>
