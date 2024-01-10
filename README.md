@@ -17,7 +17,7 @@
 - <b>CS 555: Foundations of Machine Learning</b>
   - [Restaurant Marketing Campaign A/B Testing](https://codythayer.github.io/restaurant-marketing-campaign/)
 - <b>CS 688: Data Mining</b>
-  - [Restaurant Marketing Campaign A/B Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [XXXXXXXXXXXXXXXXXXXXXXXX](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>CS 699: Classification Algorithms</b>
   - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
