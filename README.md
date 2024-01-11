@@ -10,30 +10,28 @@
 <br><br>
 
 
-<img align="left" style="background-color:Tomato" alt="Java" width="85px" height="85px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original-wordmark.svg"/>
-
-
-
-<img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+<img align="left" alt="Java" width="85px" height="85px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original-wordmark.svg"/>
 
 <p align="left">
       <a href="https://www.linkedin.com/in/codythayer/">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" width="85px" height="85px "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original-wordmark.svg"/></a> 
    </p>
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/codythayer/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" width="85px" height="85px "src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original-wordmark.svg"/></a> 
-   </p>
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M8.75 7a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5h-7.5ZM7 11.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75ZM9.75 15a.75.75 0 0 0 0 1.5h6.5a.75.75 0 0 0 0-1.5h-6.5Z"></path><path d="M2 3.75C2 2.784 2.784 2 3.75 2h16.5c.966 0 1.75.784 1.75 1.75v16.5A1.75 1.75 0 0 1 20.25 22H3.75A1.75 1.75 0 0 1 2 20.25Zm1.75-.25a.25.25 0 0 0-.25.25v16.5c0 .138.112.25.25.25h16.5a.25.25 0 0 0 .25-.25V3.75a.25.25 0 0 0-.25-.25Z"></path></svg>
 
 <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   <img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
-   
+
+
+
+[Click me](https://www.youtube.com) <!-- Replace "https://your-link-here" with your actual link -->
+
+
+<a href="https://your-link-here" class="btn">Test Button</a>
+
+
 <br><br>
 
 <h2>📚 Academic Projects:</h2>
