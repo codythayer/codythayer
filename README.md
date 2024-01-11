@@ -23,8 +23,8 @@
 
 <h2>📚 Professional Projects:</h2>
 
-- <b>CS Maxon Consulting</b>
-  - [Published Research Paper on Image Classification](https://codythayer.github.io/us-census-project/)
+- <b>Maxon Consulting</b>
+  - [Published Research Paper on Image Classification](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
