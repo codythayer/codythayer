@@ -21,7 +21,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 <h2>📚 Academic Projects:</h2>
 
-*Links to the Capstone Project Reports for three of my data science Master's courses. All code for these projects can be found in the appropriately named repository.*
+*Capstone Project Reports for three of my Data Science Master's courses. All accompanying code for these projects can be found in the appropriately named repository.*
 
 - <b>CS 544: Statistics and Probability</b>
   - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
