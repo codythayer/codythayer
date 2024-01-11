@@ -1,4 +1,4 @@
-# Cody Thayer
+<!--# Cody Thayer-->
 
 **`Data Scientist`**
 
