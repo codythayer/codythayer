@@ -7,9 +7,13 @@
 
 <a href="https://github.com/codythayer/codythayer/blob/main/Cody%20Thayer%20Resume%201.4.2024.pdf">Resume</a> <a href="https://www.linkedin.com/in/codythayer/">LinkedIn</a>
 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/codythayer/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&logo=video&logoColor=white&style=for-the-badge&labelColor=#80ccff"/></a> 
+
+
 <br>
-
-
 <h2>📚 Academic Projects:</h2>
 
 *Links to the Capstone Project Reports for three of my data science Master's courses. All code for these projects can be found in the appropriately named repository.*
