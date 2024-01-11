@@ -23,8 +23,28 @@
 
 <h2>📚 Professional Projects:</h2>
 
+*Most of the code used for these projects was property of the company I was working for at the time and therefore I'm unable to share publicly. I shared as much as I could.*
+
 - <b>Maxon Consulting</b>
   - [Published Research Paper on Image Classification](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+- <b>illumina</b>
+  - [Waterspider Project Imaging](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+- <b>BlueJeans</b>
+  - [Customer Success Dashboard](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+
+<h2>📚 Personal Projects:</h2>
+
+*Miscillaneous Projects I have worked on to learn.*
+
+- <b>Python</b>
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+- <b>Machine Learning</b>
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+- <b>AI</b>
+  - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
