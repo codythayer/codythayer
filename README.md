@@ -24,12 +24,15 @@
    <img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
+This is the one
+![img](https://custom-icon-badges.demolab.com/badge/Resume-1155ba.svg?logo=project-roadmap&logoColor=236ad3&labelColor=1155ba&style=for-the-badge&logoColor=white)
 
 
-[Click me](https://www.youtube.com) <!-- Replace "https://your-link-here" with your actual link -->
+<a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/XXXXXXX-white.svg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=project-roadmap&label=Resume&logoColor=white"/></a>
 
-
-<a href="https://your-link-here" class="btn">Test Button</a>
+<a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/Resume-white.svg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=project-roadmap&label=&logoColor=white"/></a>
 
 
 <br><br>
