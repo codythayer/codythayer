@@ -10,7 +10,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/codythayer/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn!" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&logo=video&logoColor=white&style=for-the-badge&labelColor=#80ccff"/></a> 
+    <img alt="LinkedIn" title="Connect with me on LinkedIn!" src="https://github.com/dheereshagrwal/colored-icons/tree/master/public/icons/linkedin"/></a> 
+
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+<i class="ci ci-spotify ci-2x"></i>
 
 
 <br>
