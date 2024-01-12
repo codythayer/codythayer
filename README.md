@@ -40,7 +40,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
   - [Published Research Paper on Image Classification](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 - <b>illumina</b>
   - [Waterspider Project Imaging](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
-  - [Assay XXXXXXXXXXX](https://github.com/codythayer/illumina/blob/main/Nextera%20Flex%20Assay%20Final-compressed.pdf)
+  - [Genetics Assay Work Instruction Document](https://github.com/codythayer/illumina/blob/main/Nextera%20Flex%20Assay%20Final-compressed.pdf)
 - <b>BlueJeans</b>
   - [Customer Success Dashboard](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 
