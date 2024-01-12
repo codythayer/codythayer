@@ -21,7 +21,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 <h2>📚 Academic Projects:</h2>
 
-*XXXXXCapstoneXXXXXX Project Reports for three of my Data Science Master's courses. All accompanying code for these projects can be found in the appropriately named repository. Ordered from most recent to oldest. Progression of my work.*
+*My capstone data science project and various other projects completed during my time at Boston University in order from most recent to oldest. All accompanying code for these projects can be found in the appropriately named repository.*
 
 - <b>Boston University M.S. Data Science Capstone Project</b>
   - [Predicting Depression Using Machine Learning Models](https://github.com/codythayer/depression_capstone/blob/main/README.md)
