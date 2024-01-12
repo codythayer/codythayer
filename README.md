@@ -34,7 +34,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 <h2>💼 Professional Projects:</h2>
 
-*Most of the code used for these projects was property of the company I was working for at the time and therefore I'm unable to share publicly. I shared as much as I could.*
+*Most of the code used for these projects was property of the company I was working for at the time and therefore I'm unable to share publicly. All accompanying code I was able to share can be found in the appropriately named repository.*
 
 - <b>Maxon Consulting</b>
   - [Published Research Paper on Image Classification](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
