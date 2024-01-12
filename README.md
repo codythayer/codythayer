@@ -32,7 +32,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 - <b>CS 699: Classification Algorithms</b>
   - [Arthritis Classification using 2018 BRFSS Survey Data prepared by CDC](https://github.com/codythayer/arthritis-classification/blob/main/Final%20Report.pdf)
 
-<h2>📚 Professional Projects:</h2>
+<h2>💼 Professional Projects:</h2>
 
 *Most of the code used for these projects was property of the company I was working for at the time and therefore I'm unable to share publicly. I shared as much as I could.*
 
