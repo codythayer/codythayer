@@ -42,7 +42,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
   - [Waterspider Project Imaging](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
   - [Genetics Assay Work Instruction Document](https://github.com/codythayer/illumina/blob/main/Nextera%20Flex%20Assay%20Final-compressed.pdf)
 - <b>BlueJeans</b>
-  - [Customer Success Dashboard](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
+  - [Customer Success Dashboard](https://docs.google.com/spreadsheets/d/1krB2wzarUBy9Is6ge7lif8Dl4DEOrKR9Z4ubDQWUtwQ/edit?usp=sharing)
 
 <h2>👨‍💻 Personal Projects:</h2>
 
