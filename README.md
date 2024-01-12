@@ -44,7 +44,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 - <b>BlueJeans</b>
   - [Customer Success Dashboard](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 
-<h2>📚 Personal Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
 *Miscillaneous Projects I have worked on to learn.*
 
