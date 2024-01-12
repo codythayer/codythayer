@@ -46,7 +46,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-*Miscillaneous Projects I have worked on to learn.*
+*Miscillaneous projects I have worked on to learn.*
 
 - <b>Python</b>
   - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
