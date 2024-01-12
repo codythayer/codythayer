@@ -1,6 +1,6 @@
 # Cody Thayer
 
-**`Data Scientist`**
+<!--**`Data Scientist`**-->
 
 *As a Data Analyst and M.S. Data Science candidate at Boston University, I bring a unique blend of expertise in neuroscience, genetics, and environmental science. Starting at UC San Diego, my journey into data science has blossomed into a fervent passion for employing technologies like Python and TensorFlow to tackle real-world complexities.My professional growth has taken me from basic Excel automation to the design of intricate algorithms and data models, including a convolutional neural network that classifies geological images with 92% accuracy. Although I began my journey as a self-taught programmer, Boston University is fueling my ambition to not only refine my self-taught skills with formal education but also to explore the possibility of furthering my education with a doctorate. I am particularly excited about the cross-disciplinary nature of data science, which aligns perfectly with my diverse interests in the STEM fields and beyond. I am particularly excited about the cross-disciplinary nature of data science, which aligns perfectly with my diverse interests in STEM and beyond. The interdisciplinary essence of data science particularly excites me, aligning seamlessly with my varied interests across the STEM fields and further. My goal is to use my data science expertise to make a tangible impact in whatever field I find myself. I look forward to applying my diverse skills and experiences in an environment that appreciates innovation, creative problem-solving, and enthusiasm.*
 
