@@ -2,7 +2,9 @@
 
 <!--**`Data Scientist`**-->
 
-*As a Data Analyst and M.S. Data Science candidate at Boston University, I bring a unique blend of expertise in neuroscience, genetics, and environmental science. Starting at UC San Diego, my journey into data science has blossomed into a fervent passion for employing technologies like Python and TensorFlow to tackle real-world complexities. My professional growth has taken me from basic Excel automation to the design of intricate algorithms and data models. Although I began my journey as a self-taught programmer, Boston University is fueling my ambition to not only refine my self-taught skills with formal education but also to explore the possibility of furthering my education with a doctorate. My goal is to use my data science expertise to make a tangible impact in whatever field I find myself. I look forward to applying my diverse skills and experiences in an environment that appreciates innovation, creative problem-solving, and enthusiasm.*
+**`Data Analyst | M.S. Data Science Candidate at Boston University`**
+
+*I bring a unique blend of expertise in neuroscience, genetics, and environmental science. Starting at UC San Diego, my journey into data science has blossomed into a fervent passion for employing technologies like Python and TensorFlow to tackle real-world complexities. My professional growth has taken me from basic Excel automation to the design of intricate algorithms and data models. Although I began my journey as a self-taught programmer, Boston University is fueling my ambition to not only refine my self-taught skills with formal education but also to explore the possibility of furthering my education with a doctorate. My goal is to use my data science expertise to make a tangible impact in whatever field I find myself. I look forward to applying my diverse skills and experiences in an environment that appreciates innovation, creative problem-solving, and enthusiasm.*
 
 <p align="left">
        <a href="https://github.com/codythayer/codythayer/blob/main/Cody%20Thayer%20Resume%201.4.2024.pdf">
