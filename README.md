@@ -40,9 +40,9 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
   - [Published Research Paper on Image Classification](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
 - <b>illumina</b>
   - [Waterspider Project Imaging](https://github.com/codythayer/maxon-consulting/blob/main/Maxon%20Consulting%20SPE%20Paper.pdf)
-  - [Genetics Assay Work Instruction Document](https://github.com/codythayer/illumina/blob/main/Nextera%20Flex%20Assay%20Final-compressed.pdf)
+  - [Genetics Assay Work Instruction Document](https://github.com/codythayer/illumina/blob/main/Nextera%20Flex%20Assay%20Final-compressed.pdf): A quality control experimental procedure to test illumina's Oncology product Nextera XT.
 - <b>BlueJeans</b>
-  - [Customer Success Dashboard](https://docs.google.com/spreadsheets/d/1krB2wzarUBy9Is6ge7lif8Dl4DEOrKR9Z4ubDQWUtwQ/edit?usp=sharing)
+  - [Customer Success Dashboard](https://docs.google.com/spreadsheets/d/1krB2wzarUBy9Is6ge7lif8Dl4DEOrKR9Z4ubDQWUtwQ/edit?usp=sharing): My first data science project. A customer success dashboard that utilized Java and Google BigQuery to query customer data and display KPIs for the sales team.
 
 <h2>👨‍💻 Personal Projects:</h2>
 
