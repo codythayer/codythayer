@@ -24,7 +24,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 *XXXXXCapstoneXXXXXX Project Reports for three of my Data Science Master's courses. All accompanying code for these projects can be found in the appropriately named repository. Ordered from most recent to oldest. Progression of my work.*
 
 - <b>Boston University M.S. Data Science Capstone Project</b>
-  - [Predicting Depression Using Machine Learning Models](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Predicting Depression Using Machine Learning Models](https://github.com/codythayer/depression_capstone/blob/main/README.md)
 - <b>CS 544: Statistics and Probability</b>
   - [An Exploration of First-Generation Americans Census Data](https://codythayer.github.io/us-census-project/)
 - <b>CS 555: Foundations of Machine Learning</b>
