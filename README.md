@@ -5,7 +5,7 @@
 *My journey into data science began at UC San Diego with an elective C++ introductory course and has since evolved into a deep-seated passion for leveraging Python, TensorFlow, and other cutting-edge technologies to solve complex, real-world problems. I've grown from automating Excel tasks to building sophisticated algorithms and data models. A notable achievement includes developing a convolutional neural network with a 93% accuracy rate for geological image classification. Although I have mostly been a self-taught programmer, Boston University is fueling my ambition to not only refine my self-taught skills with formal education but also to explore the possibility of furthering my education with a doctorate. My goal is to use my data science expertise to make a tangible impact in whatever field or job I find myself. I look forward to applying my diverse skills and experiences in an environment that appreciates innovation, creative problem-solving, and enthusiasm.*
 
 <p align="left">
-       <a href="https://github.com/codythayer/codythayer/blob/main/Cody%20Thayer%20Resume%201.4.2024.pdf">
+       <a href="https://github.com/codythayer/codythayer/blob/main/resume.pdf">
          <img alt="Resume" title="Check out my resume" src="https://custom-icon-badges.demolab.com/badge/Resume-White?style=for-the-badge&logo=project-roadmap&logoColor=white&color=lightgrey"/></a> 
       <a href="https://www.linkedin.com/in/codythayer/">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Linkedin-White?style=for-the-badge&logo=linkedin&logoColor=white&color=236ad3"/></a> 
