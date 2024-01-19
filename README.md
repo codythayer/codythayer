@@ -49,7 +49,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 *Still underconstruction. Adding miscillaneous projects I have worked on as a consultant or as a learning exercise.*
 
 - <b>AI</b>
-  - [ChatGPT API Business Sector Classification for Caruso Real Estate](https://colab.research.google.com/drive/11uKzmxUo6VgsLbPRFy3MUt8pECKtxBlR?usp=sharing)
+  - [Business Sector Classification using ChatGPT API for Caruso Real Estate](https://colab.research.google.com/drive/11uKzmxUo6VgsLbPRFy3MUt8pECKtxBlR?usp=sharing)
 - <b>Python</b>
   - [XXXXXXXXXXXXXXXXXX](https://github.com/codythayer/depression_capstone/blob/main/README.md)
 - <b>Machine Learning</b>
