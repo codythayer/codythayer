@@ -46,7 +46,7 @@ And watched this video: https://www.youtube.com/watch?v=9A8sQZDRn5o
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-*Still underconstruction. Adding miscillaneous projects I have worked on as a consultant or as a learning exercise.*
+*Underconstruction. Adding miscillaneous projects I have worked on as a consultant or as a learning exercise.*
 
 - <b>AI</b>
   - [Business Sector Classification using ChatGPT API for Caruso Real Estate](https://colab.research.google.com/drive/11uKzmxUo6VgsLbPRFy3MUt8pECKtxBlR?usp=sharing)
